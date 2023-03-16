@@ -1,7 +1,12 @@
 # AI_NLP(자연어 처리)
+## 2023-03-16(목)
+### 모델 구현
+1. word2vec 모델
+2. 랜덤포레스트 모델
+
 ## 2023-03-15(수)
 ### 텍스트 분류
-1. kaggle word2vec-nlp-tutorial 데이터 분석 진행
+1. kaggle word2vec-nlp-tutorial 데이터 분석 진행(Tfidf 모델)
 
 ## 2023-03-14(화)
 ### 자연어 처리 개요
